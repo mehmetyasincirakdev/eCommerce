@@ -29,8 +29,8 @@
               "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj": {
                 "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj"
               },
-              "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj"
               },
               "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj"
@@ -47,6 +47,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -92,8 +106,8 @@
               "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Business\\Business.csproj": {
                 "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Business\\Business.csproj"
               },
-              "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj"
               }
             }
           }
@@ -148,7 +162,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -160,6 +178,20 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.7.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0-rc.2.23480.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -180,14 +212,14 @@
         }
       }
     },
-    "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mehmetyasincirak\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -202,6 +234,9 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
+              "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj"
+              },
               "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj"
               }

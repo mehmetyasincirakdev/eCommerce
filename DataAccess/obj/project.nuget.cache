@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XOoPmMWjWLak7tGC132oRiCH/9hzp9yTu4icECvkzAajVE+JiAd7zcTLKKT/4RkMyqvGkDEdFRU+ETyaWvb+iQ==",
+  "dgSpecHash": "am5Oie6cvyPMVeuuPvTLXtiw0/yxWF2+CEG5tLfQsj/lSvSNQ9/UspU/5Q5HYbZnwGOW6sPwJZScrXOIMr8A3A==",
   "success": true,
-  "projectFilePath": "c:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.1\\microsoft.data.sqlclient.5.0.1.nupkg.sha512",

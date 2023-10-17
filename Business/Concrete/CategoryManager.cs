@@ -16,12 +16,12 @@ namespace Business.Concrete
 
         IDataResult<List<Category>> ICategoryService.GetAll()
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<List<Category>>(_categoryDal.GetAll());
         }
 
         IDataResult<Category> ICategoryService.GetById(int categoryId)
         {
-            throw new NotImplementedException();
+            return new SuccessDataResult<Category>(_categoryDal.Get(c => c.CategoryId == categoryId));
         }
     }
 }
