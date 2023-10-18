@@ -26,9 +26,6 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj"
-              },
               "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj": {
                 "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj"
               },
@@ -108,6 +105,9 @@
               },
               "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj": {
                 "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj"
               }
             }
           }
@@ -162,11 +162,7 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {
-              "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Entities\\Entities.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -179,6 +175,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[11.7.1, )"
@@ -303,7 +303,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

@@ -1245,7 +1245,6 @@
         "dependencies": {
           "Autofac": "7.1.0",
           "Autofac.Extras.DynamicProxy": "7.1.0",
-          "Core": "1.0.0",
           "DataAccess": "1.0.0",
           "Entities": "1.0.0",
           "FluentValidation": "11.7.1"
@@ -1261,7 +1260,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
-          "Entities": "1.0.0",
+          "Autofac.Extras.DynamicProxy": "7.1.0",
           "FluentValidation": "11.7.1",
           "Microsoft.EntityFrameworkCore": "7.0.0-rc.2.23480.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.0"
@@ -1292,6 +1291,9 @@
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },

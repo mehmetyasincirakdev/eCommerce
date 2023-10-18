@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "cQOofvnPepGBpOkZw0odK7wphcrEsUTG5M4oXfAXG/o2NDTxzJQDjA0Nx8IZXNaeRI9rqitwUj+b37nQFN2GAw==",
+  "dgSpecHash": "rSIkVjt6NU7805h9nCEsQ8fTnLSNNiBV5gK0NTHogGqdC7d0RdZu3qBrDxjMMuzPZ0HQ6BdR7vQwxMskyHgAMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\autofac.extras.dynamicproxy\\7.1.0\\autofac.extras.dynamicproxy.7.1.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\fluentvalidation\\11.7.1\\fluentvalidation.11.7.1.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -41,6 +44,7 @@
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.configuration.configurationmanager\\5.0.0\\system.configuration.configurationmanager.5.0.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
+    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
@@ -65,15 +69,14 @@
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
-    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\entities\\1.0.0\\entities.1.0.0.nupkg.sha512"
+    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Core depends on Microsoft.EntityFrameworkCore (>= 7.0.0-rc.2.23480.1) but Microsoft.EntityFrameworkCore 7.0.0-rc.2.23480.1 was not found. An approximate best match of Microsoft.EntityFrameworkCore 7.0.0 was resolved.",
+      "message": "Core, Microsoft.EntityFrameworkCore (>= 7.0.0-rc.2.23480.1) öğesine bağımlı ancak Microsoft.EntityFrameworkCore 7.0.0-rc.2.23480.1 bulunamadı. Yaklaşık bir en iyi eşleşme olan Microsoft.EntityFrameworkCore 7.0.0 çözümlendi.",
       "libraryId": "Microsoft.EntityFrameworkCore",
       "targetGraphs": [
         "net7.0"

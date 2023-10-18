@@ -2,3 +2,14 @@ C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\Entities
 C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\Entities.AssemblyInfoInputs.cache
 C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\Entities.AssemblyInfo.cs
 C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\bin\Debug\net7.0\Entities.deps.json
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\bin\Debug\net7.0\Entities.dll
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\bin\Debug\net7.0\Entities.pdb
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\bin\Debug\net7.0\Core.dll
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\bin\Debug\net7.0\Core.pdb
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\Entities.csproj.AssemblyReference.cache
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\Entities.csproj.CopyComplete
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\Entities.dll
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\refint\Entities.dll
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\Entities.pdb
+C:\Users\mehmetyasincirak\Documents\eCommerce\Entities\obj\Debug\net7.0\ref\Entities.dll
