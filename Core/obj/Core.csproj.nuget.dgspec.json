@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj": {}
+    "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj": {
+    "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\obj\\",
+        "projectPath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\MehmetYasinCirak\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mehmetyasincirak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\MehmetYasinCirak\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net8.0"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Autofac.Extras.DynamicProxy": {
               "target": "Package",
@@ -71,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

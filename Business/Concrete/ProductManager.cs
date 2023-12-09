@@ -28,7 +28,6 @@ namespace Business.Concrete
         {
             _productDal.Add(product);
             return new SuccessResult(Messages.ProductAdded);
-
         }
 
         public IDataResult<List<Product>> GetAll()

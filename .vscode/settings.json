@@ -1,7 +1,9 @@
 {
+    // Proje hariç tutma ayarı
     "dataworkspace.excludedProjects": [
         "localhost/localhost.sqlproj"
     ],
+    // Editör ayarları
     "editor.fontSize": 14,
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
@@ -15,5 +17,25 @@
     "editor.codeLens": {
         "enable": true,
         "maxLines": 500
-    }
+    },
+    // C# Kod Biçimlendirme Ayarları
+    "csharp.format.enable": true,
+    "csharp.format.indentation": "spaces",
+    "csharp.format.insertSpaceAfterCommaDelimiter": true,
+    "csharp.format.insertSpaceAfterSemicolonInForStatements": true,
+    "csharp.format.insertSpaceBeforeAndAfterBinaryOperators": true,
+    "csharp.format.insertSpaceAfterKeywordsInControlFlowStatements": true,
+    "csharp.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
+    // Dil Hizmeti Ayarları
+    "csharp.semanticHighlighting.enabled": true,
+    // Dil Hizmeti ve Hata Ayıklama Ayarları
+    "csharp.suppressDotnetRestoreNotification": true,
+    "csharp.suppressMSBuildPrompt": true,
+    "csharp.suppressBuildInDotNetWatch": true,
+    // Dosya Otomatik Kaydetme Ayarı
+    "files.autoSave": "afterDelay",
+    // Git Ayarları
+    "git.enableSmartCommit": true,
+    "git.defaultCloneDirectory": "~/repos",
+    "dotnet.codeLens.enableReferencesCodeLens": true
 }

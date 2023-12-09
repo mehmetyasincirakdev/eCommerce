@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net8.0": {
       "Autofac/6.5.0": {
         "type": "package",
         "dependencies": {
@@ -3380,7 +3380,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net8.0": [
       "Autofac.Extras.DynamicProxy >= 7.1.0",
       "FluentValidation >= 11.7.1",
       "Microsoft.EntityFrameworkCore >= 7.0.0-rc.2.23480.1",
@@ -3388,29 +3388,29 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\": {}
+    "C:\\Users\\MehmetYasinCirak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\Core.csproj",
-      "packagesPath": "C:\\Users\\mehmetyasincirak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mehmetyasincirak\\Documents\\eCommerce\\Core\\obj\\",
+      "projectPath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\Core\\Core.csproj",
+      "packagesPath": "C:\\Users\\MehmetYasinCirak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mehmetyasincirak\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\MehmetYasinCirak\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -3421,8 +3421,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Autofac.Extras.DynamicProxy": {
             "target": "Package",
@@ -3457,7 +3457,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   },
@@ -3466,10 +3466,10 @@
       "code": "NU1603",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Core, Microsoft.EntityFrameworkCore (>= 7.0.0-rc.2.23480.1) öğesine bağımlı ancak Microsoft.EntityFrameworkCore 7.0.0-rc.2.23480.1 bulunamadı. Yaklaşık bir en iyi eşleşme olan Microsoft.EntityFrameworkCore 7.0.0 çözümlendi.",
+      "message": "Core depends on Microsoft.EntityFrameworkCore (>= 7.0.0-rc.2.23480.1) but Microsoft.EntityFrameworkCore 7.0.0-rc.2.23480.1 was not found. An approximate best match of Microsoft.EntityFrameworkCore 7.0.0 was resolved.",
       "libraryId": "Microsoft.EntityFrameworkCore",
       "targetGraphs": [
-        "net7.0"
+        "net8.0"
       ]
     }
   ]
