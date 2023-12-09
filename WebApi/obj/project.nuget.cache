@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yhdauz8/VXBeUVmZY/1ZoccQhCwiib6eko0tPrHulKDLWrzcn6MiMUSVpw9vjFYWbl5dJXlIM669vp/TggUPcg==",
+  "dgSpecHash": "adRG4L6AqjMe915hp0n7H6uPALG8Kbeh7/fCVYVGqlGMJHwAepdV9Bp5rAUfb2Q8PY7AaJaVDgsz0klMvCRgbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\webapi\\WebApi.csproj",
+  "projectFilePath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MehmetYasinCirak\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\MehmetYasinCirak\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

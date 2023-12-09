@@ -3971,11 +3971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\webapi\\WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\webapi\\WebApi.csproj",
+      "projectPath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\MehmetYasinCirak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\webapi\\obj\\",
+      "outputPath": "C:\\Users\\MehmetYasinCirak\\Documents\\eCommerceApp\\eCommerce\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MehmetYasinCirak\\AppData\\Roaming\\NuGet\\NuGet.Config"
